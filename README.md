@@ -1,2 +1,3 @@
-# sudoku
-Sudoku built with the pygame modul
+# Sudoku
+Sudoku built in Python with the pygame modul
+Made by Nico Müller
